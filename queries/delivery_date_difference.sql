@@ -8,3 +8,4 @@
 -- 2. Puedes usar la función CAST para convertir un número a un entero.
 -- 3. Puedes usar la función STRFTIME para convertir order_delivered_customer_date a una cadena, eliminando horas, minutos y segundos.
 -- 4. order_status == 'delivered' AND order_delivered_customer_date IS NOT NULL
+prueba
